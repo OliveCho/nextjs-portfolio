@@ -25,7 +25,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello! I'm Olive🫒! frontend developer specializing in React and
+          Hello! I'm Olive🫒! frontend developer specializing in React.js and
           Next.js with TypeScript!
         </p>
         <p>
